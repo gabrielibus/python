@@ -1,0 +1,45 @@
+defina:
+
+altura h de un astro
+altura del polo
+distancia cenital (z)
+plano meridiano
+meridiano local (m)
+línea meridiana, qué es y cómo se determina
+altura del polo, qué es y cómo se determina
+puntos cardinales y cómo medirlos
+qué es refracción atmosférica y cómo la podemos comprobar día a día
+qué es la eclíptica
+qué es la oblicuidad de la eclíptica
+Qué es la latitud geográfica (fi)
+qué es la longitud geográfica (lambda)
+qué son coordenadas horizontales
+qué son coordenadas ecuatoriales
+qué son coordenadas ecuatoriales absolutas: cuando el punto de orgina es el epunto Aries.
+qué son coordenadas ecuatoriales horiarias:
+qué son coordenadas ecuatoriales absolutas:
+qué son coordenadas eclípticas
+qué es la precesión de los equinoccios
+describa el movimiento aparente del sol a lo largo del año
+cuál es la definición de planeta según la UAI:
+	1. tienen suficiente masa para asumir forma de equilibio hidrostático
+	2. la limpiado la vecindad de su orbita de planetesimles, cuerpos sólidos 	presentes en los discos protoplanetarios.
+qué es elongación, conjunción, oposición, cuaratura planetaria
+	elongación: ángulo (TP) formado por el tríangulo (STP) sol, tierra, planeta
+	conjunción: cuando el sol y un planeta pasan aprox. al mismo tiempo sobre el meridiano loca (elongación 0). Puede ser, para planetas menores, máxima o mínima.
+	oposición: cuanto un planeta pasa aprox. a media noche por el meridiano local. (elongación 180)
+	cuaratura: cuando el triángulo STP es recto
+
+qué son revoluciones sinódicas y siderales: siderales, tiempo que tarda el planeta en darle la vuelva al sol. Sinódicas, tiempo transcurrido entre dos conjunciones consecutivas
+
+qué son los Saros: periodo de tiempo comprendido por 223 lunaciones (18 años, 11 días). En este tiempo ocurren 70 eclipses, de los cuales 29 son de luna y 41 de sol.
+
+
+
+
+
+
+
+
+
+
